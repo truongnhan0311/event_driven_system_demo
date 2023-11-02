@@ -1,0 +1,8 @@
+black
+click
+kafka-python
+mypy-extensions
+pathspec
+platformdirs
+tomli
+typing-extensions
