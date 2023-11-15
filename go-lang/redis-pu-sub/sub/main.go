@@ -46,7 +46,7 @@ func main() {
         }
 
         fmt.Println("Received message from " + msg.Channel + " channel.")
-        fmt.Println("%+v\n", user)
+        fmt.Println(user)
     }
 
 }
